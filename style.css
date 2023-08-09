@@ -1,0 +1,19 @@
+h1, h3{
+    text-align: center;
+}
+input, button, h3{
+    margin: 10px;
+}
+
+#app button{
+    color: white;
+}
+
+#input input{
+    width: 90%;
+}
+
+#down, #up, #addressDown, #addressUp{
+    width: 20px;
+    cursor: pointer;
+}
